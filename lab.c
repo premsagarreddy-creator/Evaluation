@@ -19,7 +19,8 @@ case 3:
             break;
 case 4:
             printf("software\n");
-            break;
+            pritn("aiml");
+	    break;
 
 default:
             printf("Invalid\n");
