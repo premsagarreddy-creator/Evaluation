@@ -23,7 +23,8 @@ case 4:
 	    break;
 
 default:
-            printf("Invalid\n");
+           print("hello");
+	   printf("Invalid\n");
     }
 
 return 0;
