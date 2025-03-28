@@ -12,7 +12,8 @@ int main() {
 
  case 2:
             printf("aiml\n");
-            break;
+            print("cse");
+	    break;
 case 3:
             printf("mechanical\n");
             break;
