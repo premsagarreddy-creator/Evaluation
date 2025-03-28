@@ -21,6 +21,11 @@ case 4:
             printf("software\n");
             pritn("aiml");
 	    break;
+	    case 5:
+            printf("hardware\n");
+            pritn("aiml");
+            break;
+
 
 default:
            print("hello");
