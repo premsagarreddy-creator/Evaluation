@@ -9,7 +9,7 @@ int main() {
             printf("btech \n");
             break;
 case 2:
-            printf("aiml\n");
+       printf("aiml\n");
             break;
 case 3:
             printf("mechanical\n");
